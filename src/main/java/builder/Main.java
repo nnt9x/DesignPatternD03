@@ -19,7 +19,6 @@ public class Main {
 
         House house2 = houseBuilder.create();
 
-
         House house3 = new HouseBuilder()
                 .buildDoors(1)
                 .buildGarage()
