@@ -1,4 +1,4 @@
-package chain_of_responsibility;
+package adapter2.chain_of_responsibility;
 
 public class Client {
     public static void main(String[] args) {

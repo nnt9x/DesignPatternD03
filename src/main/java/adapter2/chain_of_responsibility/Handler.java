@@ -1,4 +1,4 @@
-package chain_of_responsibility;
+package adapter2.chain_of_responsibility;
 
 public interface Handler {
     public void setNext(Handler h);
